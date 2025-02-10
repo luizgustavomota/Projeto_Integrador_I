@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.68862935"
-     inkscape:cx="106.73376"
-     inkscape:cy="465.41728"
+     inkscape:cx="190.23296"
+     inkscape:cy="616.44192"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -70,78 +70,75 @@
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path2"
-       cx="55.559105"
-       cy="78.505928"
+       cx="49.767567"
+       cy="67.14138"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="55.711514"
-       y="80.575409"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.08;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="49.919975"
+       y="69.210861"
        id="text3"><tspan
          sodipodi:role="line"
          id="tspan3"
-         style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="55.711514"
-         y="80.575409">TIPO</tspan></text>
-    <ellipse
-       style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="ellipse3"
-       cx="26.742805"
-       cy="86.766602"
-       rx="12.904927"
-       ry="6.3845429" />
+         style="fill:#000000;stroke-width:0.08;stroke-dasharray:none"
+         x="49.919975"
+         y="69.210861">TIPO</tspan></text>
+    <path
+       d="m 56.250913,203.38154 a 16.544558,7.1905847 0 0 0 -16.544188,7.19068 16.544558,7.1905847 0 0 0 16.544188,7.19009 16.544558,7.1905847 0 0 0 16.544851,-7.19009 16.544558,7.1905847 0 0 0 -16.544851,-7.19068 z"
+       style="fill:none;stroke:#202020;stroke-width:0.696941;paint-order:markers fill stroke"
+       id="path22" />
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="26.89521"
-       y="88.836082"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.08;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="56.73983"
+       y="211.68092"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
-         style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="26.89521"
-         y="88.836082">id</tspan></text>
+         style="fill:#000000;stroke-width:0.08;stroke-dasharray:none"
+         x="56.73983"
+         y="211.68092">id_produto</tspan></text>
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse4"
-       cx="85.720169"
-       cy="74.855865"
+       cx="81.69857"
+       cy="66.883354"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="85.872574"
-       y="76.925346"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.08;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="81.850975"
+       y="68.952835"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="85.872574"
-         y="76.925346">fabr</tspan></text>
+         style="fill:#000000;stroke-width:0.08;stroke-dasharray:none"
+         x="81.850975"
+         y="68.952835">fabr</tspan></text>
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse5"
-       cx="115.11279"
-       cy="74.855865"
+       cx="112.03905"
+       cy="218.55315"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="115.2652"
-       y="76.925346"
+       x="112.19146"
+       y="220.62263"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
          style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="115.2652"
-         y="76.925346">volt</tspan></text>
+         x="112.19146"
+         y="220.62263">volt</tspan></text>
     <g
        id="g10"
-       transform="translate(0,20.785001)">
+       transform="translate(-3.0737387,164.48228)">
       <ellipse
          style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
          id="ellipse6"
@@ -163,7 +160,7 @@
     </g>
     <g
        id="g9"
-       transform="translate(0,20.490012)">
+       transform="translate(-3.0737387,164.18729)">
       <ellipse
          style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
          id="ellipse7"
@@ -185,135 +182,261 @@
     </g>
     <path
        style="fill:none;stroke:#202020;stroke-width:0.48;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 98.417052,56.771306 16.504718,11.682356 19.697,-11.750275"
+       d="m 95.343317,200.46859 16.504713,11.68235 19.697,-11.75027"
        id="path8"
        sodipodi:nodetypes="ccc" />
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse6-8"
-       cx="147.0741"
-       cy="77.847481"
+       cx="141.09708"
+       cy="221.83931"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="146.93353"
-       y="79.312332"
+       x="140.95651"
+       y="223.30415"
        id="text7-8"><tspan
          sodipodi:role="line"
          id="tspan7-2"
          style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="146.93353"
-         y="79.312332">volume</tspan></text>
+         x="140.95651"
+         y="223.30415">volume</tspan></text>
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 75.256103,98.067074 39.393989,87.335608"
-       id="path10" />
+       d="M 75.256103,98.067074 56.781681,94.942723"
+       id="path10"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 78.108769,93.312628 65.203844,82.581162"
-       id="path11" />
+       d="M 81.691256,93.315455 57.547489,72.912635"
+       id="path11"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 85.03668,92.905103 84.764995,81.494431"
-       id="path12" />
+       d="M 93.304866,92.865315 81.607884,73.617976"
+       id="path12"
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 93.866366,93.040946 106.90714,79.864336"
+       style="fill:none;stroke:#202020;stroke-width:0.58;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 90.792627,236.73823 103.8334,223.56162"
        id="path13" />
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse13"
-       cx="145.03647"
-       cy="103.24979"
+       cx="139.05945"
+       cy="247.24161"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="144.8959"
-       y="104.71466"
+       x="138.91888"
+       y="248.70648"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan13"
          style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="144.8959"
-         y="104.71466">dim</tspan></text>
+         x="138.91888"
+         y="248.70648">dim</tspan></text>
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 110.84653,96.165297 143.44846,84.211259"
+       d="m 104.86951,240.15712 32.60193,-11.95404"
        id="path14"
        sodipodi:nodetypes="cc" />
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse14"
-       cx="179.13264"
-       cy="91.159927"
+       cx="173.15562"
+       cy="235.15175"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="178.99208"
-       y="92.624786"
+       x="173.01506"
+       y="236.61661"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="178.99208"
-         y="92.624786">larg</tspan></text>
+         x="173.01506"
+         y="236.61661">larg</tspan></text>
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse15"
-       cx="178.99681"
-       cy="109.90601"
+       cx="173.01979"
+       cy="253.89784"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="178.85625"
-       y="111.37088"
+       x="172.87923"
+       y="255.3627"
        id="text15"><tspan
          sodipodi:role="line"
          id="tspan15"
          style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="178.85625"
-         y="111.37088">comp</tspan></text>
+         x="172.87923"
+         y="255.3627">comp</tspan></text>
     <ellipse
        style="fill:none;stroke:#202020;stroke-width:0.580001;stroke-dasharray:none;paint-order:markers fill stroke"
        id="ellipse16"
-       cx="177.36671"
-       cy="129.19545"
+       cx="171.38969"
+       cy="273.18729"
        rx="12.904927"
        ry="6.3845429" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.38;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="177.22615"
-       y="130.66026"
+       x="171.24913"
+       y="274.6521"
        id="text16"><tspan
          sodipodi:role="line"
          id="tspan16"
          style="fill:#000000;stroke-width:0.38;stroke-dasharray:none"
-         x="177.22615"
-         y="130.66026">alt</tspan></text>
+         x="171.24913"
+         y="274.6521">alt</tspan></text>
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 149.01795,109.34196 15.48591,18.61031"
+       d="m 143.04093,253.33378 15.48591,18.61031"
        id="path16" />
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 157.84764,103.50075 8.01464,5.56952"
+       d="m 152.4686,247.58225 8.01464,5.56952"
        id="path17" />
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 150.64805,97.252027 15.07839,-6.520386"
+       d="m 144.67103,241.24385 15.07839,-6.52039"
        id="path18" />
     <path
        style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 110.71069,99.833011 21.05541,2.580999"
+       d="m 104.73367,243.82483 21.05541,2.581"
        id="path19" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.08;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="102.97025"
+       y="26.510994"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:0.08;stroke-dasharray:none;fill:#000000"
+         x="102.97025"
+         y="26.510994">MER -&gt; Modelo Entidade - Relacionamento</tspan></text>
+    <rect
+       style="fill:none;stroke:#202020;stroke-width:0.58;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect19"
+       width="35.363239"
+       height="11.306919"
+       x="69.107185"
+       y="237.38544" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#202020;stroke-width:0.131;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="86.697853"
+       y="245.06049"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-size:5.64444px;fill:#000000;stroke-width:0.131;stroke-dasharray:none"
+         x="86.697853"
+         y="245.06049">model</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#202020;stroke-width:0.668182;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="ellipse20"
+       cx="25.398045"
+       cy="235.49597"
+       rx="15.646412"
+       ry="6.9888186" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.08;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="25.742558"
+       y="236.53288"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="fill:#000000;stroke-width:0.08;stroke-dasharray:none"
+         x="25.742558"
+         y="236.53288">id_model</tspan></text>
+    <path
+       style="fill:#000000;stroke:#202020;stroke-width:0.78;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 15.046883,238.51672 20.581959,-4.6e-4"
+       id="path24"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#202020;stroke-width:0.68;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 40.956992,236.58509 27.778725,6.12651"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#202020;stroke-width:0.58;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 65.317065,216.23385 14.150118,20.36489"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#202020;stroke-width:0.479999;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 101.38991,92.96137 7.3286,-18.902909"
+       id="path28"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g28"
+       transform="translate(20.783725,-0.13584134)">
+      <ellipse
+         style="fill:none;stroke:#202020;stroke-width:0.4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="ellipse26"
+         cx="88.784294"
+         cy="67.524506"
+         rx="12.904927"
+         ry="6.3845429" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0;stroke-dasharray:none;paint-order:markers fill stroke"
+         x="88.64373"
+         y="68.989365"
+         id="text26"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           style="fill:#000000;stroke-width:0;stroke-dasharray:none"
+           x="88.64373"
+           y="68.989365">model</tspan></text>
+      <ellipse
+         style="fill:none;stroke:#202020;stroke-width:0.403173;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="ellipse28"
+         cx="88.784294"
+         cy="67.524506"
+         rx="11.934618"
+         ry="5.4999857" />
+    </g>
+    <rect
+       style="fill:none;stroke:#202020;stroke-width:0.50219;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect28"
+       width="33.029934"
+       height="9.0754271"
+       x="70.273834"
+       y="238.50119" />
+    <path
+       d="m 40.493317,86.286304 a 16.544558,7.1905847 0 0 0 -16.544188,7.19068 16.544558,7.1905847 0 0 0 16.544188,7.190086 16.544558,7.1905847 0 0 0 16.544851,-7.190086 16.544558,7.1905847 0 0 0 -16.544851,-7.19068 z"
+       style="fill:none;stroke:#202020;stroke-width:0.696941;paint-order:markers fill stroke"
+       id="path29" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:#202020;stroke-width:0.08;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="40.982235"
+       y="94.585686"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="fill:#000000;stroke-width:0.08;stroke-dasharray:none"
+         x="40.982235"
+         y="94.585686">id_produto</tspan></text>
+    <path
+       style="fill:#000000;stroke:#202020;stroke-width:0.78;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 27.918851,96.617004 H 53.373249"
+       id="path30"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
