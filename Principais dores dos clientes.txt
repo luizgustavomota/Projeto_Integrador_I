@@ -33,6 +33,23 @@ d- não sabem a diferença de alimentação DC e AC
 
    e- aceito outras perguntas que julgar necessárias.
 
+   f- Quais equipamentos você tem e/ou pretende ter no motorhome
+      []geladeira
+      []micro-ondas
+      []televisão
+      []star Link
+      []ventilador
+      []climatizador
+      []ar-condicionado
+      []notebook
+      []tomadas 110/220V
+
+   g- Quantos pontos de entradas USB
+      []2
+      []4
+      []6
+      
+
 
 
 
