@@ -1,0 +1,13 @@
+No diagrama ER, as entidades são representadas por retângulos.
+
+No diagrama desenvolvido, PRODUTO é a entidade forte (representada por retângulo com uma linha) e 
+possui quatro atributos simples (representados por elipse), que correspondem às suas características. 
+O atributo id_produto é a chave primária; enquanto TIPO e fabr são atributos univalorados.
+Já model é um atributo multivalorado.
+
+A entidade PRODUTO se relaciona com a entidade model, que é uma entidade fraca (representada por um retângulo com duas linhas), 
+dado que sua existência depende da entidade forte PRODUTO. Essa entidade tem cinco atributos, sendo: id_model (chave primária); 
+id_produto (chave estrangeira para vinculação com "PRODUTO"); volt (atributo composto por 'amper' e 'watt'); 
+volume (atributo simples); e dim (atributo composto pelas dimensões largura, comprimento e altura).
+
+Válido pontuar que id_produto aparece nas duas entidades, indicando que o produto pode ter diferentes modelos associados.
